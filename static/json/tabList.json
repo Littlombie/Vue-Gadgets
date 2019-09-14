@@ -1,0 +1,427 @@
+[
+  {
+    "id": 0,
+    "typeTitle": "pizza",
+    "topTitle": "披萨",
+    "isActive": true,
+    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_pizze.png",
+    "goodsContent": [
+      {
+        "id": "97",
+        "goodsTitle": "好运超级牛肉披萨",
+        "isHot": true,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 好运超级牛肉披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "39",
+          "59"
+        ],
+        "sellStore": "所有门店均有售",
+        "descripion": "醇香大片的牛肉，饼底松脆可口，加上能拉丝的芝士，满口咸香浓郁，配上鲜嫩的青红椒丁和洋葱，汁水满溢的满足感简直回味无穷。"
+      },
+      {
+        "id": "96",
+        "goodsTitle": "四季水果披萨",
+        "isHot": true,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 四季水果披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "39",
+          "59"
+        ],
+        "sellStore": "所有门店均有售",
+        "descripion": "想让时间静止，一段沉浸在独特香味中的舌尖之旅，厚厚的芝士酱裹着果果们和饼底，任由果香在唇齿间留久一点。"
+      },
+      {
+        "id": "98",
+        "goodsTitle": "奶香榴莲披萨",
+        "isHot": true,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 奶香榴莲披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "49",
+          "69"
+        ],
+        "sellStore": "仅限新华店、集贸店、中东店、新站店、快大店、百货店有售",
+        "descripion": "一个披萨满满大块榴莲的肉！这真是赤裸裸的勾引啊！馥郁芬芳，夹杂着浓浓的奶香。"
+      },
+      {
+        "id": "99",
+        "goodsTitle": "照烧鸡肉披萨",
+        "isHot": false,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 照烧鸡肉披萨 .jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "39",
+          "59"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "烤好的皮萨还没有吃在口中就已经诱惑十足了，酱香软糯的鸡肉、清香四溢的香菇配上奶香浓郁的奶酪，真是完美的一顿啊！"
+      },
+      {
+        "id": "100",
+        "goodsTitle": "海鲜披萨",
+        "isHot": false,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 海鲜披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "49",
+          "69"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "虾仁，青红椒加上美味的比萨酱构成了完美的海鲜口味比萨。"
+      },
+      {
+        "id": "101",
+        "goodsTitle": "土耳其烤肉披萨",
+        "isHot": false,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_06 土耳其烤肉披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "49",
+          "69"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "披萨饼皮铺满土耳其烤肉，咬上一口软糯的饼皮和脆香肥美的烤肉，搭配出绝妙的滋味，让你吃了还想吃，欲罢不能。"
+      },
+      {
+        "id": "102",
+        "goodsTitle": "夏威夷披萨",
+        "isHot": false,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_07 夏威夷披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "39",
+          "59"
+        ],
+        "sellStore": "仅限集贸店、建设店、快大店、新站店、百货店有售",
+        "descripion": "酸甜多汁的凤梨中和面饼的干腻，成就了多层次千变万化的口感，从蓬松的边缘一口咬下，绵软中混合劲脆，不知不觉，手已经伸去拿第二块啦！"
+      },
+      {
+        "id": "103",
+        "goodsTitle": "别样田园披萨",
+        "isHot": true,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_08 别样田园披萨.jpg",
+        "size": [
+          "元/9寸",
+          "元/12寸"
+        ],
+        "prices": [
+          "39",
+          "59"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店、集贸店有售",
+        "descripion": "一片披萨上顶着满满当当新鲜顶级的食材！伴着奶香十足绵软奶酪，隔着披萨都能闻到一丝田园的气息。"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "typeTitle": "steak",
+    "topTitle": "牛排",
+    "isActive": false,
+    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_niupai.png",
+    "goodsContent": [
+      {
+        "id": "104",
+        "goodsTitle": "黑椒西冷",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 黑椒西冷 39元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "39"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "口感韧度强，肉质劲道，肉质鲜美，搭配经典特调黑椒酱，美妙的滋味。"
+      },
+      {
+        "id": "105",
+        "goodsTitle": "炭烧猪扒",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 碳烧猪扒 39元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "39"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "肥瘦均匀，特有的炭烧滋味，大快朵颐之感爆棚。"
+      },
+      {
+        "id": "106",
+        "goodsTitle": "安格斯牛小排",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 安格斯牛小排 128元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "128"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "进口澳洲牛小排，肉香四溢的美味一定不可错过。独特的烹饪手法，瞬间锁住牛排的原汁原味。"
+      },
+      {
+        "id": "107",
+        "goodsTitle": "内华达沙朗",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 内华达沙朗 59元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "59"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "肉质鲜嫩又带油花嫩筋的牛肉，是取自于牛背脊一带最柔嫩的牛肉"
+      },
+      {
+        "id": "108",
+        "goodsTitle": "进口牛仔骨",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_06 进口牛仔骨 88元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "88"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "澳洲牛仔骨的意义在于，品尝时鲜嫩的气息，犹如夏天般迸发的活力。"
+      },
+      {
+        "id": "109",
+        "goodsTitle": "香煎银鳕鱼",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_08 香煎银鳕鱼 138元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "138"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "如雪的外表，出身极地，历经严寒好运来特选法国进口银鳕鱼。"
+      },
+      {
+        "id": "110",
+        "goodsTitle": "黑椒牛排配虾排",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 黑椒牛排配虾排 59元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "59"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "扎实的牛排配上酥软肉嫩的虾排，两种口感好似天生一对。"
+      },
+      {
+        "id": "111",
+        "goodsTitle": "香煎鹅肝",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_07 香煎鹅肝 98元.jpg",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "98"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "鹅肝，丰腴的口感就像一个法式深吻。表皮微酥，内心柔软，入口即化，点滴的浪漫在舌尖扩散开来"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "typeTitle": "pasta",
+    "topTitle": "意面",
+    "isActive": false,
+    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_pasta.png",
+    "goodsContent": [
+      {
+        "id": "112",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 金牌黑椒牛肉意面 18元.jpg",
+        "goodsTitle": "金牌黑椒牛肉意面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "18"
+        ],
+        "sellStore": "仅限新华店、集贸店、中东店、新站店、快大店、百货店有售",
+        "descripion": "酱汁四溢的面条，顺时针地卷上叉齿，口感饱满，连胃也微微笑。"
+      },
+      {
+        "id": "113",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 美式茄汁意面 18元.jpg",
+        "goodsTitle": "美式茄汁意面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "18"
+        ],
+        "sellStore": "仅限新华店、集贸店、中东店、新站店、快大店、百货店有售",
+        "descripion": "番茄酱的酸甜口味十分开胃，芝士粉的独特风味则让意面更加可口美味。"
+      },
+      {
+        "id": "114",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_07 奶酪焗意面 25元.jpg",
+        "goodsTitle": "奶酪焗意面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "25"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "奶酪焗意面是在番茄肉酱意面的基础上加上奶酪碎烤烤成金黄，使味道美上加美，实在让人无法阻挡其美味的诱惑哦。"
+      },
+      {
+        "id": "179",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 奶油培根意大利面 18元.jpg",
+        "goodsTitle": "奶油培根意大利面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "18"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "浓浓的香甜气息，有奶香，有培根，感受不同的口味。"
+      },
+      {
+        "id": "180",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 黑椒海鲜意面 20元.jpg",
+        "goodsTitle": "黑椒海鲜意面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "20"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "虾肉质嫩有弹性，花甲鲜而不腻、软嫩滑爽，浓香的汁液包裹在面条周围，令人食指大动。"
+      },
+      {
+        "id": "181",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_06 意大利传统肉酱意面 18元.jpg",
+        "goodsTitle": "意大利肉酱意面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "18"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "高筋度的意大利面，质地紧实有弹性，肉汁四溢，浓而不腻，其味无穷。"
+      },
+      {
+        "id": "182",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 番茄海鲜意面 20元.jpg",
+        "goodsTitle": "番茄海鲜意面",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "20"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "高筋度的意大利面，质地紧实有弹性，肉汁四溢，浓而不腻，其味无穷。"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "typeTitle": "meal",
+    "topTitle": "饭",
+    "isActive": false,
+    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_fanshi.png",
+    "goodsContent": [
+      {
+        "id": "115",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 好运特色牛肉饭 25元.jpg",
+        "goodsTitle": "好运特色牛肉饭",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "25"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "特有香料秘制而成的牛肉，与新鲜紫甘蓝的翻炒，加上青椒特别的出味。"
+      },
+      {
+        "id": "175",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 美式黑椒牛肉焗饭 25元.jpg",
+        "goodsTitle": "美式黑椒牛肉焗饭",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "25"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "特有香料秘制而成的牛肉，与新鲜紫甘蓝的翻炒，加上青椒特别的出味。"
+      },
+      {
+        "id": "176",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 鹅肝芦笋炒饭 28元.jpg",
+        "goodsTitle": "鹅肝芦笋炒饭",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "28"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "新鲜的鹅肝与芦笋搭配，鹅肝口感芬香醇厚，芦笋味道鲜美，值得你来品尝。"
+      },
+      {
+        "id": "177",
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 青菜炒饭 18元.jpg",
+        "goodsTitle": "青菜炒饭",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "18"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "简单的青菜炒饭，感受妈妈的味道。"
+      },
+      {
+        "id": "178",
+        "isHot": true,
+        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 铁板黑椒牛肉饭 25元.jpg",
+        "goodsTitle": "铁板黑椒牛肉饭",
+        "size": [
+          "元"
+        ],
+        "prices": [
+          "25"
+        ],
+        "sellStore": "仅限新站店、快大店、百货店有售",
+        "descripion": "口感饱满、回味悠长， 色香味俱全。"
+      }
+    ]
+  }
+]
