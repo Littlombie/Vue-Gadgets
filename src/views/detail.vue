@@ -1,7 +1,8 @@
 <template>
-  <transition name="tslide-fade" >
-    <div class="goods-detail" ref="goodsDetail">
-      <i @click="$router.back()"></i>
+  <transition name="tslide-fade" mode="in-out">
+    <div class="goods-detail" ref="goodsDetail" :key="id">
+      <!-- <i @click="$router.back()"></i> -->
+      <router-link tag="i" to="/"></router-link>
       <div class="goods">
         <img :src="goodItems.goodsImg" alt="">
         <div class="goods-info">
@@ -35,13 +36,10 @@ export default {
         this.goodsItem()
       }, 200)
     })
-    console.log('created')
   },
   mounted () {
     // 页面滑动到最顶端
     this.$parent.$el.scrollTop = 0
-
-    console.log('mounted')
   },
   updated () {
     console.log('updated')
