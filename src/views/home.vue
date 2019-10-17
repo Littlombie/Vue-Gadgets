@@ -4,7 +4,7 @@
       <transition name="slide2">
         <h1 class="welcome" v-if="welcome">{{ msg }}</h1>
       </transition>
-      <h2>Some decisions you need to say <span>{{yesNo.toUpperCase()}}</span></h2>
+      <h2>Some decisions you need to say <span>"{{yesNo.toUpperCase()}}"</span></h2>
       <tabs></tabs>
     </div>
   </transition>
