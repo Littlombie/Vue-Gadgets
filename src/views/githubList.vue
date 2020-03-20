@@ -15,7 +15,7 @@
        Search more than <strong>101M</strong> repositories
     </h4>
     <div class="show-list"  ref="showList" v-show="!showRepo">
-      <span><em>{{dataList.total_count}} </em> repository results</span>
+      <span><em>{{dataList.total_count | thousandSign}} </em> repository results</span>
       <ul class="list" ref="list">
         <li v-for="(item, index) in allItem" :key="index" :name="'repo-'+item.id">
           <a :href="item.svn_url" target="_blank" class="repo-full-name">{{item.full_name}}</a>
@@ -49,6 +49,11 @@ export default {
       pageNo: 1,
       pageSize: 10
 
+    }
+  },
+  filters: {
+    thousandSign: function (num) {
+      return ('' + num).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
     }
   },
   created () {

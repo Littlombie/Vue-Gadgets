@@ -10,6 +10,9 @@ export default {
     }
     return result.join('')
   },
+  thousandSign: function (num) {
+    return ('' + num).replace(/(\d)(?=(\d{3})+(?!\d))/g, '$1,')
+  },
   toDecimal: function (num) {
     if (num < 1000) return num
     return Number((num / 1000).toString().match(/^\d+(?:\.\d{0,1})?/)) + 'k'
