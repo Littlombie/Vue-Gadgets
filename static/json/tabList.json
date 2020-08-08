@@ -4,13 +4,13 @@
     "typeTitle": "pizza",
     "topTitle": "披萨",
     "isActive": true,
-    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_pizze.png",
+    "goodsIcon": "/static/images/ico_pizze.png",
     "goodsContent": [
       {
         "id": "97",
         "goodsTitle": "好运超级牛肉披萨",
         "isHot": true,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 好运超级牛肉披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_01 好运超级牛肉披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -26,7 +26,7 @@
         "id": "96",
         "goodsTitle": "四季水果披萨",
         "isHot": true,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 四季水果披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_02 四季水果披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -42,7 +42,7 @@
         "id": "98",
         "goodsTitle": "奶香榴莲披萨",
         "isHot": true,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 奶香榴莲披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_05 奶香榴莲披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -58,7 +58,7 @@
         "id": "99",
         "goodsTitle": "照烧鸡肉披萨",
         "isHot": false,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 照烧鸡肉披萨 .jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_03 照烧鸡肉披萨 .jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -74,7 +74,7 @@
         "id": "100",
         "goodsTitle": "海鲜披萨",
         "isHot": false,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 海鲜披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_04 海鲜披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -90,7 +90,7 @@
         "id": "101",
         "goodsTitle": "土耳其烤肉披萨",
         "isHot": false,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_06 土耳其烤肉披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_06 土耳其烤肉披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -106,7 +106,7 @@
         "id": "102",
         "goodsTitle": "夏威夷披萨",
         "isHot": false,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_07 夏威夷披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_07 夏威夷披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -122,7 +122,7 @@
         "id": "103",
         "goodsTitle": "别样田园披萨",
         "isHot": true,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_08 别样田园披萨.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_08 别样田园披萨.jpg",
         "size": [
           "元/9寸",
           "元/12寸"
@@ -141,12 +141,12 @@
     "typeTitle": "steak",
     "topTitle": "牛排",
     "isActive": false,
-    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_niupai.png",
+    "goodsIcon": "/static/images/ico_niupai.png",
     "goodsContent": [
       {
         "id": "104",
         "goodsTitle": "黑椒西冷",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 黑椒西冷 39元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_03 黑椒西冷 39元.jpg",
         "size": [
           "元"
         ],
@@ -159,7 +159,7 @@
       {
         "id": "105",
         "goodsTitle": "炭烧猪扒",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 碳烧猪扒 39元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_02 碳烧猪扒 39元.jpg",
         "size": [
           "元"
         ],
@@ -172,7 +172,7 @@
       {
         "id": "106",
         "goodsTitle": "安格斯牛小排",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 安格斯牛小排 128元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_05 安格斯牛小排 128元.jpg",
         "size": [
           "元"
         ],
@@ -185,7 +185,7 @@
       {
         "id": "107",
         "goodsTitle": "内华达沙朗",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 内华达沙朗 59元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_04 内华达沙朗 59元.jpg",
         "size": [
           "元"
         ],
@@ -198,7 +198,7 @@
       {
         "id": "108",
         "goodsTitle": "进口牛仔骨",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_06 进口牛仔骨 88元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_06 进口牛仔骨 88元.jpg",
         "size": [
           "元"
         ],
@@ -211,7 +211,7 @@
       {
         "id": "109",
         "goodsTitle": "香煎银鳕鱼",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_08 香煎银鳕鱼 138元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_08 香煎银鳕鱼 138元.jpg",
         "size": [
           "元"
         ],
@@ -224,7 +224,7 @@
       {
         "id": "110",
         "goodsTitle": "黑椒牛排配虾排",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 黑椒牛排配虾排 59元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_01 黑椒牛排配虾排 59元.jpg",
         "size": [
           "元"
         ],
@@ -237,7 +237,7 @@
       {
         "id": "111",
         "goodsTitle": "香煎鹅肝",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_07 香煎鹅肝 98元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_07 香煎鹅肝 98元.jpg",
         "size": [
           "元"
         ],
@@ -254,11 +254,11 @@
     "typeTitle": "pasta",
     "topTitle": "意面",
     "isActive": false,
-    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_pasta.png",
+    "goodsIcon": "/static/images/ico_pasta.png",
     "goodsContent": [
       {
         "id": "112",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 金牌黑椒牛肉意面 18元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_01 金牌黑椒牛肉意面 18元.jpg",
         "goodsTitle": "金牌黑椒牛肉意面",
         "size": [
           "元"
@@ -271,7 +271,7 @@
       },
       {
         "id": "113",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 美式茄汁意面 18元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_02 美式茄汁意面 18元.jpg",
         "goodsTitle": "美式茄汁意面",
         "size": [
           "元"
@@ -284,7 +284,7 @@
       },
       {
         "id": "114",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_07 奶酪焗意面 25元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_07 奶酪焗意面 25元.jpg",
         "goodsTitle": "奶酪焗意面",
         "size": [
           "元"
@@ -297,7 +297,7 @@
       },
       {
         "id": "179",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 奶油培根意大利面 18元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_04 奶油培根意大利面 18元.jpg",
         "goodsTitle": "奶油培根意大利面",
         "size": [
           "元"
@@ -310,7 +310,7 @@
       },
       {
         "id": "180",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 黑椒海鲜意面 20元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_03 黑椒海鲜意面 20元.jpg",
         "goodsTitle": "黑椒海鲜意面",
         "size": [
           "元"
@@ -323,7 +323,7 @@
       },
       {
         "id": "181",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_06 意大利传统肉酱意面 18元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_06 意大利传统肉酱意面 18元.jpg",
         "goodsTitle": "意大利肉酱意面",
         "size": [
           "元"
@@ -336,7 +336,7 @@
       },
       {
         "id": "182",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 番茄海鲜意面 20元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_05 番茄海鲜意面 20元.jpg",
         "goodsTitle": "番茄海鲜意面",
         "size": [
           "元"
@@ -354,11 +354,11 @@
     "typeTitle": "meal",
     "topTitle": "饭",
     "isActive": false,
-    "goodsIcon": "http://www.haoyunlai.com.cn/menu/images/ico_fanshi.png",
+    "goodsIcon": "/static/images/ico_fanshi.png",
     "goodsContent": [
       {
         "id": "115",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_01 好运特色牛肉饭 25元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_01 好运特色牛肉饭 25元.jpg",
         "goodsTitle": "好运特色牛肉饭",
         "size": [
           "元"
@@ -371,7 +371,7 @@
       },
       {
         "id": "175",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_03 美式黑椒牛肉焗饭 25元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_03 美式黑椒牛肉焗饭 25元.jpg",
         "goodsTitle": "美式黑椒牛肉焗饭",
         "size": [
           "元"
@@ -384,7 +384,7 @@
       },
       {
         "id": "176",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_04 鹅肝芦笋炒饭 28元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_04 鹅肝芦笋炒饭 28元.jpg",
         "goodsTitle": "鹅肝芦笋炒饭",
         "size": [
           "元"
@@ -397,7 +397,7 @@
       },
       {
         "id": "177",
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_05 青菜炒饭 18元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_05 青菜炒饭 18元.jpg",
         "goodsTitle": "青菜炒饭",
         "size": [
           "元"
@@ -411,7 +411,7 @@
       {
         "id": "178",
         "isHot": true,
-        "goodsImg": "http://www.haoyunlai.com.cn/menu/uploadImage/2017-04-08_02 铁板黑椒牛肉饭 25元.jpg",
+        "goodsImg": "/static/uploadImage/2017-04-08_02 铁板黑椒牛肉饭 25元.jpg",
         "goodsTitle": "铁板黑椒牛肉饭",
         "size": [
           "元"

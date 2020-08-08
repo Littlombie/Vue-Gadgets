@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "axios": "^0.18.0",
+    "ly-tab": "^2.1.2",
     "vue": "^2.5.2",
     "vue-axios": "^2.1.4",
     "vue-infinite-loading": "^2.4.4",

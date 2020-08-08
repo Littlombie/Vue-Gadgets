@@ -7,6 +7,7 @@ import VueAxios from 'vue-axios'
 import router from './router'
 import store from './store'
 import Mock from 'mockjs'
+// import LyTab from 'ly-tab'
 import InfiniteLoading from 'vue-infinite-loading'
 import pub from './assets/script/utils.js'
 
@@ -19,6 +20,7 @@ Vue.prototype.$pub = pub
 
 Vue.use(VueAxios, axios)
 Vue.use(InfiniteLoading)
+// Vue.use(LyTab)
 
 //  配置数据请求全局
 axios.interceptors.request.use(function (config) {

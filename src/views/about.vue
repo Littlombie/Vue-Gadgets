@@ -1,6 +1,10 @@
 <template>
 <transition name="fade">
   <div id="page_about">
+    <ly-tab
+    v-model="selectedId"
+    :items="items"
+    :options="options"></ly-tab>
     <vuex-contorller></vuex-contorller>
     Tag 列表显示
     <ul class="tagList">
@@ -21,6 +25,7 @@
 <script>
 import {mapState} from 'vuex'
 import vuexContorller from '@/components/vuexController'
+import lyTab from '@/components/ly-tab/index'
 import listTree from '../components/list-tree/list-tree'
 export default {
   data () {
@@ -28,7 +33,23 @@ export default {
       name: '',
       clientNum: {},
       candelete: {},
-      olist: {}
+      olist: {},
+      selectedId: 0,
+      items: [
+        { label: '首页' },
+        { label: '推荐' },
+        { label: 'Android' },
+        { label: '前端' },
+        { label: '后端' },
+        { label: 'iOS' },
+        { label: '产品' },
+        { label: '人工智能' },
+        { label: '设计' }
+      ],
+      options: {
+        activeColor: '#1d98bd'
+        // 可在这里指定labelKey为你数据里文字对应的字段
+      }
     }
   },
   created () {
@@ -107,7 +128,8 @@ export default {
   },
   components: {
     'vuex-contorller': vuexContorller,
-    'list-tree': listTree
+    'list-tree': listTree,
+    'ly-tab': lyTab
   }
 }
 </script>
